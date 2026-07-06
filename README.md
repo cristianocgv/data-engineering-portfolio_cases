@@ -11,4 +11,4 @@ Cases reais de projetos que tive a oportunidade atuar enquanto engenheiro de dad
 | 📊 [CASE 02 - Unificação de Produtos de Investimentos](02-case-unificacao-produtos-letras/README.md) | Consolidação de produtos de investimentos (LCA e LCI) provenientes de dois Core Banking, transformando dados da camada Silver em uma tabela Gold para consumo analítico via Denodo, Power BI e consultas de negócio. |
 
 ---
-> **Observação:** >  Estes projetos utiliza dados fictícios e estruturas anonimizadas, desenvolvidos exclusivamente para fins de demonstração técnica. Nenhuma informação confidencial, proprietária ou de clientes reais é apresentada neste repositório.
+> **Observação:** Estes projetos utiliza dados fictícios e estruturas anonimizadas, desenvolvidos exclusivamente para fins de demonstração técnica. Nenhuma informação confidencial, proprietária ou de clientes reais é apresentada neste repositório.
