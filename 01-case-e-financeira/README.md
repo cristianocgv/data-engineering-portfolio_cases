@@ -42,14 +42,16 @@ Após as transformações, os dados foram disponibilizados na camada **Gold**, p
 
 Neste projeto esteve concentrada na Etapa 3 (Processamento de Dados), onde fui responsável pelo desenvolvimento dos pipelines de ETL/ELT, aplicação das regras de negócio, consolidação das informações e geração da camada Gold. As demais etapas são apresentadas para contextualizar a arquitetura completa da solução e demonstrar o fluxo de dados de ponta a ponta.
 
-# Tecnologias Utilizadas
 
-- Databricks
-- Apache Spark
-- PySpark
-- SQL
-- Delta Lake
-- Git
+# Tecnologias
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00A3E0?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A3E0?style=for-the-badge)
+
 
 ---
 
@@ -138,13 +140,7 @@ Visualizar amostra dos dados
 - Arquitetura escalável utilizando Databricks, Delta Lake e Amazon S3.
 - Disponibilização da camada Gold para consumo pelo sistema gerador da E-Financeira.
 
-
 ---
 
-# Arquivos
 
-Este projeto  contém:
 
-- 📄 Massa de dados fictícia
-- ⚙️ Pipeline PySpark imagem
-- 📊 Exemplo da camada Gold
