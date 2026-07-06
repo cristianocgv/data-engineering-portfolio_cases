@@ -251,3 +251,14 @@ Com a implantação do Dashboard:
 ---
 
 > **Observação:** Este projeto utiliza dados e imagens ilustrativas. O objetivo é demonstrar a arquitetura da solução, modelagem dos dados e as técnicas empregadas, preservando informações confidenciais da instituição.
+
+
+### Tecnologias utilizadas
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00FF00?style=for-the-badge&logo=sql&logoColor=green)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
