@@ -173,9 +173,12 @@
     }
 
     .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-end;
+
     }
 
     .btn {
@@ -938,20 +941,20 @@
     <section id="contato" class="panel contact reveal">
       <div>
         <h2>Vamos conversar?</h2>
-        <p>Estou aberto a novos desafios e oportunidades em dados, tecnologia e analytics.</p>
+        <p>Estou aberto a novos desafios e oportunidades em  Engenharia de dados e analytics.</p>
       </div>
       <div class="actions">
         <a class="btn secondary" id="linkedinFooter" href="#" target="_blank" rel="noreferrer">LinkedIn</a>
         <a class="btn secondary" id="githubFooter" href="https://github.com/cristianocgv/">GitHub</a>
         <a class="btn secondary" id="emailFooter" href="mailto:cristianocgv@gmail.com">Enviar e-mail</a>
-        <a class="btn primary" 
-  id="whatsappFooter
-  href="https://wa.me/5582981038646?text=Olá%20Cristiano,%20vim%20pelo%20seu%20portfólio."
-  target="_blank"
->
-  <i class="fab fa-whatsapp"></i>
-  Chamar no WhatsApp
-</a>
+          <a class="btn primary"
+          id="whatsappFooter"
+          href="https://wa.me/5582981038646?text=Olá%20Cristiano,%20vim%20pelo%20seu%20portfólio."
+          target="_blank"
+          rel="noopener noreferrer">
+          <i class="fab fa-whatsapp"></i>
+          WhatsApp
+        </a>
       </div>
     </section>
   </main>
